@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29797361/README.md)
 # Bolão Dus Mininu Copa 2026
 
 Aplicativo web em React + TypeScript para gerenciar um bolão entre amigos.
